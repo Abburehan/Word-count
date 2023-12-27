@@ -18,10 +18,10 @@ Now give print().
 ### Step 6: 
 End the program.
 ## PROGRAM:
+```
 Developed by: Abbu Rehan
 Register Number : 23010259
 
-```
 num=0
 with open("file1.txt","r") as f1:
     for i in f1:
